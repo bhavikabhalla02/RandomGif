@@ -1,4 +1,3 @@
-import React, { useState, useEffect } from "react";
 import "../CSS/random.css";
 import Spinner from "./Spinner";
 import useGif from "../Hooks/useGif";
