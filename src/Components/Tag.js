@@ -1,6 +1,7 @@
 import "../CSS/tag.css";
 import Spinner from "./Spinner";
 import useGif from "../Hooks/useGif";
+import { useState} from "react";
 function Tag() {
   // const [gif, setGif] = useState('tag');
   // const [loading, setLoading] = useState(false);
